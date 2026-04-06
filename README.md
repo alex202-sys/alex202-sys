@@ -1,13 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/alex202-sys/alex202-sys/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -23,6 +13,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/alex202-sys/alex202-sys/output/snake.svg" alt="Snake animation" />
 
 ###
 
