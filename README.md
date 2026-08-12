@@ -4,11 +4,13 @@
 - **Coderr Live-Demo**: [Coderr-Projekt](https://liuhequan.org/)
 - Ich beende derzeit meine Ausbildung an der Developer Akademie.
 - Ich vertiefe gerade meine Kenntnisse in Python, Django Framework, REST API, Go, Linux und Cloud-Deployments.
--**`>`Ich bin offen für die Zusammenarbeit an spannenden Projekten und Open-Source-Initiativen.</p>
+- Ich bin offen für die Zusammenarbeit an spannenden Projekten und Open-Source-Initiativen.</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/alex202-sys/alex202-sys/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-cube-stats.vercel.app/api?username=alex202-sys&theme=classic" alt="3D GitHub Stats" />
+</p>
 
 ###
 
