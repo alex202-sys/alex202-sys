@@ -13,6 +13,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Python+%2F+Django+Backend+Developer;REST+APIs+%7C+Docker+%7C+Linux+%7C+Go;Building+scalable+web+applications" alt="Typing SVG" />
   </a>
 <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,go,git,github,postman&theme=dark" alt="My Tech Stack" />
+
+<img src="https://github-profile-3d-contrib.puzzle33.com/github-profile-3d-contrib/profile-night-view.svg?user=alex202-sys" alt="Alex 3D Contribution Graph" />
+
 </p>
 
 ###
