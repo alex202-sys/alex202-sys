@@ -1,7 +1,7 @@
 <p align="left">Ich bin ein leidenschaftlicher Software-Entwickler mit Fokus auf der Erstellung effizienter und skalierbarer Lösungen. Mein Ziel ist es, sauberen Code zu schreiben und kontinuierlich neue Technologien zu erlernen, um komplexe Probleme zu lösen.
 
 - **Highlight-Projekt**: Neben verschiedenen Bildungsprojekten mit Schwerpunkten wie Authentifizierungsmechanismen (JWT, Cookies), Bot-Erstellung und einer Videostreaming-Plattform sticht das [Coderr-Projekt](https://liuhequan.org/) hervor – eine E-Commerce-Plattform, die vollständig auf einem Server im Internet bereitgestellt ist.
-- **Coderr Live-Demo**: [https://liuhequan.org/](https://liuhequan.org/)
+- **Coderr Live-Demo**: [Coderr-Projekt](https://liuhequan.org/)
 - Ich beende derzeit meine Ausbildung an der Developer Akademie.
 - Ich vertiefe gerade meine Kenntnisse in Python, Django Framework, REST API, Go, Linux und Cloud-Deployments.
 - Ich bin offen für die Zusammenarbeit an spannenden Projekten und Open-Source-Initiativen.</p>
