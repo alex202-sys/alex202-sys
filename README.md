@@ -4,7 +4,7 @@
 - **Coderr Live-Demo**: [Coderr-Projekt](https://liuhequan.org/)
 - Ich beende derzeit meine Ausbildung an der Developer Akademie.
 - Ich vertiefe gerade meine Kenntnisse in Python, Django Framework, REST API, Go, Linux und Cloud-Deployments.
-- Ich bin offen für die Zusammenarbeit an spannenden Projekten und Open-Source-Initiativen.</p>
+-**`>`Ich bin offen für die Zusammenarbeit an spannenden Projekten und Open-Source-Initiativen.</p>
 
 ###
 
