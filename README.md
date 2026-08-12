@@ -14,6 +14,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex202-sys&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=20c997&fire=20c997&currStreakLabel=20c997" alt="GitHub Streak" />
+</p>
+
 ###
 
 <div align="left">
