@@ -2,9 +2,9 @@
 
 - **Highlight-Projekt**: Neben verschiedenen Bildungsprojekten mit Schwerpunkten wie Authentifizierungsmechanismen (JWT, Cookies), Bot-Erstellung und einer Videostreaming-Plattform sticht das [Coderr-Projekt](https://liuhequan.org/) hervor – eine E-Commerce-Plattform, die vollständig auf einem Server im Internet bereitgestellt ist.
 - **Coderr Live-Demo**: [Coderr-Projekt](https://liuhequan.org/)
-- Ich beende derzeit meine Ausbildung an der Developer Akademie.
-- Ich vertiefe gerade meine Kenntnisse in Python, Django Framework, REST API, Go, Linux und Cloud-Deployments.
-- Ich bin offen für die Zusammenarbeit an spannenden Projekten und Open-Source-Initiativen.</p>
+- **Ausbildung & Hintergrund:** Ich beende derzeit meine Spezialisierung auf Backend-Entwicklung an der Developer Akademie. Aufbauend auf meiner mehrjährigen Erfahrung in objektorientierter (OOP) und hardwarenaher Programmierung habe ich mein Profil gezielt um moderne Web-Backend-Technologien erweitert.
+- **Tech-Stack & Fokus:** Ich vertiefe gerade meine Kenntnisse in Python, Django Framework, REST API, Go, Linux und Cloud-Deployments.
+- **Zusammenarbeit:** Ich bin offen für die Zusammenarbeit an spannenden Projekten und Open-Source-Initiativen.</p>
 
 ###
 
