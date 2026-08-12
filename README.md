@@ -1,4 +1,4 @@
-<p align="left">I am a passionate software developer focused on building efficient and scalable solutions. My goal is to write clean code and continuously learn new technologies to solve complex problems.
+<p align="left">I am a software developer focused on building efficient and scalable solutions. My goal is to write clean code and continuously learn new technologies to solve complex problems.
 
 * **Highlight Project:** Alongside various educational projects focused on authentication mechanisms (JWT, cookies), bot creation, and a video streaming platform, the [Coderr project](https://liuhequan.org/) stands out — an e-commerce platform fully deployed on a live server.
 * **Coderr Live Demo:** [Hosting](https://liuhequan.org/)
