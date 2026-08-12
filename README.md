@@ -1,10 +1,10 @@
-<p align="left">Ich bin ein leidenschaftlicher Software-Entwickler mit Fokus auf der Erstellung effizienter und skalierbarer Lösungen. Mein Ziel ist es, sauberen Code zu schreiben und kontinuierlich neue Technologien zu erlernen, um komplexe Probleme zu lösen.
+<p align="left">I am a passionate software developer focused on building efficient and scalable solutions. My goal is to write clean code and continuously learn new technologies to solve complex problems.
 
-- **Highlight-Projekt**: Neben verschiedenen Bildungsprojekten mit Schwerpunkten wie Authentifizierungsmechanismen (JWT, Cookies), Bot-Erstellung und einer Videostreaming-Plattform sticht das [Coderr-Projekt](https://liuhequan.org/) hervor – eine E-Commerce-Plattform, die vollständig auf einem Server im Internet bereitgestellt ist.
-- **Coderr Live-Demo**: [Coderr-Projekt](https://liuhequan.org/)
-- **Ausbildung & Hintergrund:** Ich beende derzeit meine Spezialisierung auf Backend-Entwicklung an der Developer Akademie. Aufbauend auf meiner mehrjährigen Erfahrung in objektorientierter (OOP) und hardwarenaher Programmierung habe ich mein Profil gezielt um moderne Web-Backend-Technologien erweitert.
-- **Tech-Stack & Fokus:** Ich vertiefe gerade meine Kenntnisse in Python, Django Framework, REST API, Go, Linux und Cloud-Deployments.
-- **Zusammenarbeit:** Ich bin offen für die Zusammenarbeit an spannenden Projekten und Open-Source-Initiativen.</p>
+* **Highlight Project:** Alongside various educational projects focused on authentication mechanisms (JWT, cookies), bot creation, and a video streaming platform, the [Coderr project](https://liuhequan.org/) stands out — an e-commerce platform fully deployed on a live server.
+* **Coderr Live Demo:** [Hosting](https://liuhequan.org/)
+* **Education & Background:** I am currently completing my specialization in backend development at the Developer Akademie. Building on several years of experience in object-oriented (OOP) and low-level programming, I have targeted my profile toward modern web backend technologies.
+* **Tech Stack & Focus:** I am currently deepening my knowledge in Python, Django Framework, REST APIs, Go, Linux, and cloud deployments.
+* **Collaboration:** I am open to collaborating on exciting projects and open-source initiatives.</p>
 
 ###
 
