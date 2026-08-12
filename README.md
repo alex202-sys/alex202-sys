@@ -9,7 +9,9 @@
 ###
 
 <p align="center">
-  <img src="https://github-cube-stats.vercel.app/api?username=alex202-sys&theme=classic" alt="3D GitHub Stats" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Python+%2F+Django+Backend+Developer;REST+APIs+%7C+Docker+%7C+Linux+%7C+Go;Building+scalable+web+applications" alt="Typing SVG" />
+  </a>
 </p>
 
 ###
