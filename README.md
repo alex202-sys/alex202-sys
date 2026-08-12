@@ -12,7 +12,6 @@
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Python+%2F+Django+Backend+Developer;REST+APIs+%7C+Docker+%7C+Linux+%7C+Go;Building+scalable+web+applications" alt="Typing SVG" />
   </a>
-<img src="https://skillicons.dev/icons?i=python,django,postgres,docker,linux,go,react,git,github,postman&theme=dark" alt="My Tech Stack" />
 </p>
 
 <p align="center">
